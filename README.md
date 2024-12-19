@@ -1,16 +1,13 @@
-## Hi there 👋
+# Jari Peperkorn
 
-<!--
-**jaripeeperkorn/jaripeeperkorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a postdoctoral reacher at KU Leuven. my main research topics include:
 
-Here are some ideas to get you started:
+- Process Mining
+- Predictive Process Monitoring
+- Machine Learning
+  
+## Get in Touch
+- [Website](https://jaripeeperkorn.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you have any questions or just want to connect!
