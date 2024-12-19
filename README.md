@@ -1,4 +1,4 @@
-# Jari Peperkorn
+# Jari Peeperkorn
 
 ## About Me
 I'm a postdoctoral reacher at KU Leuven. my main research topics include:
